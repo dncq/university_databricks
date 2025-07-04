@@ -1,0 +1,4 @@
+"course_id,course_name,department,credits,instructor_id,course_level"
+"C001,Introduction to Programming,Computer Science,3,F001,Undergraduate"
+"C002,Calculus I,Mathematics,4,F002,Undergraduate"
+"C003,Molecular Biology,Biology,3,F003,Undergraduate"

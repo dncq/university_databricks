@@ -1,0 +1,4 @@
+"student_id,first_name,last_name,enrollment_year,major,email,status"
+"S001,John,Doe,2022,Computer Science,john.doe@university.edu,Active"
+"S002,Jane,Smith,2023,Biology,jane.smith@university.edu,Active"
+"S003,Alice,Johnson,2021,Mathematics,alice.johnson@university.edu,Graduated"
