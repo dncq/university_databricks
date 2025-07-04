@@ -1,7 +1,5 @@
 # University Data Warehouse - Data Modeling Design
 
-This README provides an overview of the data modeling design for a university data warehouse, built to analyze student enrollment, course information, faculty details, and academic performance. The design follows a dimensional model (star schema) optimized for analytical queries using Apache Spark and Databricks.
-
 ## Overview
 
 The data warehouse uses a star schema with one fact table and four dimension tables to support efficient querying and analysis. The design captures key university metrics, including student enrollment, course details, faculty information, and academic performance, with clear relationships and hierarchies.
